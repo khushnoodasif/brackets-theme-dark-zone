@@ -1,0 +1,12 @@
+{
+    "title": "Dark Zone",
+    "name": "brackets-theme-dark-zone",
+    "description": "Dark Zone Theme For Brackets",
+    "version": "1.0.0",
+    "author": "Khushnood Asif <khushnood99@gmail.com>",
+    "theme": {
+        "file": "main.css",
+        "dark": true
+    },
+    "keywords": ["theme", "brackets", "dark", "zone"]
+}
